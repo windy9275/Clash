@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
+# 自选PT
+DOMAIN-SUFFIX,fsm.name
 # Others
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-KEYWORD,tmdb
